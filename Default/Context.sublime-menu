@@ -1,0 +1,11 @@
+[
+    { "command": "copy" },
+    { "command": "cut" },
+    { "command": "paste" },
+    { "caption": "-" },
+    { "command": "select_all" },
+    { "caption": "-" },
+    { "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"}, "caption": "Open Containing Folder…" },
+    { "command": "copy_path", "caption": "Copy File Path" },
+    { "caption": "-", "id": "end" }
+]

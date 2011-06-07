@@ -1,0 +1,15 @@
+{
+	"remember_open_files": true,
+	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS"],
+	"file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj", "*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.pdf", "*.class"],
+	"new_window_settings":
+	{
+		"side_bar_visible": true,
+		"status_bar_visible": false,
+		"show_tabs": true,
+		"show_minimap": true
+	},
+	// Set to 0 to disable smooth scrolling. Set to a value between 0 and 1 to
+	// scroll slower, or set to larger than 1 to scroll faster
+	"scroll_speed": 1.0
+}

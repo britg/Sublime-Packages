@@ -1,0 +1,3 @@
+<snippet>
+	<content>&lt;${PARAM1}&gt;${0:$SELECTION}&lt;/${PARAM1}&gt;</content>
+</snippet>
